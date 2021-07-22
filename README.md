@@ -58,8 +58,14 @@ O projeto será avaliado em duas dimensões: entregáveis semanais (30%) e uma e
 
 
 ## Bibliografia Basica
-- De
-- Beck, K., Programação Extrema (XP) Explicada, 1st ed. Bookman, 2004. 
+-  Beck, K., Programação Extrema (XP) Explicada, 1st ed. Bookman, 2004. 
 - Jacobson, I., Booch G., Rumbauch J., The Unified Software Development Process, 1st ed., Addison-Wesley, 1999. 
 - [OPEN ACCESS] Scrum e XP direto das Trincheiras. (http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches) 
+- Princípios: http://agilemanifesto.org/iso/ptbr/principles.html
+- XP: http://www.extremeprogramming.org/rules.html
+- Scrum: https://www.scrum.org/Portals/0/Documents/Scrum%20Guides/2013/Scrum-Guide-Portuguese-BR.pdf
+- Survey agile: http://www.versionone.com/about-us/press-releases/article/VersionOne-Releases-9th-Annual-State-of-Agile-Survey-Results/
+- Métodos Ágeis: http://www.desenvolvimentoagil.com.br/
+- XP: http://www.desenvolvimentoagil.com.br/xp/
+- DDD (Notas do livro by Leonardo Leite): https://polignu.org/artigo/notas-sobre-ddd
 
