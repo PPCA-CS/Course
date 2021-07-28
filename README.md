@@ -49,23 +49,28 @@ O projeto será avaliado em duas dimensões: entregáveis semanais (30%) e uma e
 
 
 ## Cronograma
-- 23/07 - Apresentação da disciplia + Revisão de Conceitos de Construção de Software
-- 30/07 - Design Thinking + Design Sprint 
-- 06/08 - Lean Inception 
-- 13/08-  Estrutura Organizacionais DevOps e entrega contínua
-- 20/08 - Arquitetura  em Times DevOps na prática
-- 27/08 - Melhores Práticas e métodos para produtos de Machine Learning
+23/07 - Apresentação geral da disciplina 
+30/07 - Visão DevOps + Métodos de Pesquisa + Entrega 01
+06/08 - Design Thinking + Design Sprint (Dione, Murilo e Marcos Antônio)
+13/08 - Lean Inception (Sandro e Tiago)
+20/08- Estrutura Organizacionais DevOps e entrega contínua (Marcos Paulo e Giovanni Amorim)
+27/08 - Arquitetura em Times DevOps na prática (Gustavo e Filipe)
+03/09 - Melhores Práticas e métodos para produtos de Machine Learning (Edmilson Cosme e Lucas K)
+
 
 
 ## Bibliografia Basica
+- Leite et al - A Survey of DevOps Concepts and Challenges. https://arxiv.org/abs/1909.05409
+- Cohen et al - The Four Pillars of Research Software Engineering - https://arxiv.org/pdf/2002.01035.pdf
+- DDD (Notas do livro by Leonardo Leite): https://polignu.org/artigo/notas-sobre-ddd
+
+
 -  Beck, K., Programação Extrema (XP) Explicada, 1st ed. Bookman, 2004. 
-- Jacobson, I., Booch G., Rumbauch J., The Unified Software Development Process, 1st ed., Addison-Wesley, 1999. 
-- [OPEN ACCESS] Scrum e XP direto das Trincheiras. (http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches) 
 - Princípios: http://agilemanifesto.org/iso/ptbr/principles.html
 - XP: http://www.extremeprogramming.org/rules.html
 - Scrum: https://www.scrum.org/Portals/0/Documents/Scrum%20Guides/2013/Scrum-Guide-Portuguese-BR.pdf
 - Survey agile: http://www.versionone.com/about-us/press-releases/article/VersionOne-Releases-9th-Annual-State-of-Agile-Survey-Results/
 - Métodos Ágeis: http://www.desenvolvimentoagil.com.br/
 - XP: http://www.desenvolvimentoagil.com.br/xp/
-- DDD (Notas do livro by Leonardo Leite): https://polignu.org/artigo/notas-sobre-ddd
+
 
