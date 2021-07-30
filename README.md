@@ -49,13 +49,19 @@ O projeto será avaliado em duas dimensões: entregáveis semanais (30%) e uma e
 
 
 ## Cronograma
-23/07 - Apresentação geral da disciplina 
-30/07 - Visão DevOps + Métodos de Pesquisa + Entrega 01
-06/08 - Design Thinking + Design Sprint (Dione, Murilo e Marcos Antônio)
-13/08 - Lean Inception (Sandro e Tiago)
-20/08- Estrutura Organizacionais DevOps e entrega contínua (Marcos Paulo e Giovanni Amorim)
-27/08 - Arquitetura em Times DevOps na prática (Gustavo e Filipe)
-03/09 - Melhores Práticas e métodos para produtos de Machine Learning (Edmilson Cosme e Lucas K)
+- 23/07 - Apresentação geral da disciplina 
+
+- 30/07 - Visão DevOps + Métodos de Pesquisa + Entrega 01
+
+- 06/08 - Design Thinking + Design Sprint (Dione, Murilo e Marcos Antônio)
+
+- 13/08 - Lean Inception (Sandro e Tiago)
+
+- 20/08- Estrutura Organizacionais DevOps e entrega contínua (Marcos Paulo e Giovanni Amorim)
+
+- 27/08 - Arquitetura em Times DevOps na prática (Gustavo e Filipe)
+
+- 03/09 - Melhores Práticas e métodos para produtos de Machine Learning (Edmilson Cosme e Lucas K)
 
 
 
