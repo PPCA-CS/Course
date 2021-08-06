@@ -10,11 +10,11 @@ Detalhar a metologia utilizada para avaliar os dados.
 
 Atualizar o artigo:
 
-- [] Introdução (revisar a caracterização do software e da organização)
+- Introdução (revisar a caracterização do software e da organização)
 
-- [] A metodologia utilizada para avaliação dos dados
+- A metodologia utilizada para avaliação dos dados
 
-- [] Primeira versão dos trabalhos relacionados
+- Primeira versão dos trabalhos relacionados
 
 
 ## Critério de aceitação
