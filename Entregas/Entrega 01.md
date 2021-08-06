@@ -8,11 +8,11 @@ A partir da aula apresentada em sala, classificar o tipo de pesquisa será reali
 
 Escrever a primeira versão do artigo, especificando:
 
-- [] A questão de pesquisa (questoes de pesquisa)
+- A questão de pesquisa (questoes de pesquisa)
 
-- [] A primeira versão do texto apresentando a metodoligia a ser utilizada
+- A primeira versão do texto apresentando a metodoligia a ser utilizada
 
-- [] Revisão do texto da Entrega 0
+- Revisão do texto da Entrega 0
 
 ## Critério de aceitação
 
