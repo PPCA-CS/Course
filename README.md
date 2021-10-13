@@ -1,10 +1,13 @@
+:e
+
+ga
 # Construção de Software - Plano de ensino
 
 **DISCIPLINA**: Construção de software - Programa de Pós-Graduação em Computação Aplicada
 
 **CARGA HORÁRIA**:  horas
 
-**PROFESSOR**: Carla Rocha (caguiar@unb.br)
+**gg:PROFESSOR**: Carla Rocha (caguiar@unb.br)
 
 **CREDITOS**: 
 
