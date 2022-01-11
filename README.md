@@ -9,7 +9,7 @@
 
 **CREDITOS**: 
 
-**SEMESTRE/ANO**: 01/2021
+**SEMESTRE/ANO**: 02/2021
 
 
 
@@ -50,19 +50,19 @@ O projeto será avaliado em duas dimensões: entregáveis semanais (30%) e uma e
 
 
 ## Cronograma
-- 23/07 - Apresentação geral da disciplina 
+-  Apresentação geral da disciplina 
 
-- 30/07 - Visão DevOps + Métodos de Pesquisa + Entrega 01
+- Visão DevOps + Métodos de Pesquisa + Entrega 01
 
-- 06/08 - Design Thinking + Design Sprint (Dione, Murilo e Marcos Antônio)
+- Design Thinking + Design Sprint 
 
-- 13/08 - Lean Inception (Sandro e Tiago)
+- Lean Inception 
 
-- 20/08- Estrutura Organizacionais DevOps e entrega contínua (Marcos Paulo e Giovanni Amorim)
+- Estrutura Organizacionais DevOps e entrega contínua
 
-- 27/08 - Arquitetura em Times DevOps na prática (Gustavo e Filipe)
+- Arquitetura em Times DevOps na prática
 
-- 03/09 - Melhores Práticas e métodos para produtos de Machine Learning (Edmilson Cosme e Lucas K)
+ - Melhores Práticas e métodos para produtos de Machine Learning
 
 
 
