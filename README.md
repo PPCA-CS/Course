@@ -5,7 +5,7 @@
 
 **CARGA HORÁRIA**:  horas
 
-**gg:PROFESSOR**: Carla Rocha (caguiar@unb.br)
+**PROFESSOR**: Carla Rocha (caguiar@unb.br)
 
 **CREDITOS**: 
 
